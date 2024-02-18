@@ -1,0 +1,6 @@
+#ifndef _EXEICON_
+#define _EXEICON_
+
+MAINICON ICON "Resources/edit.ico"
+
+#endif
